@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\bin\Debug\netcoreapp2.0\rectangleArea.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\bin\Debug\netcoreapp2.0\rectangleArea.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\bin\Debug\netcoreapp2.0\rectangleArea.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\bin\Debug\netcoreapp2.0\rectangleArea.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\bin\Debug\netcoreapp2.0\rectangleArea.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\rectangleArea\rectangleArea\obj\Debug\netcoreapp2.0\rectangleArea.pdb

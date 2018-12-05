@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\bin\Debug\netcoreapp2.0\charecterStats.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\bin\Debug\netcoreapp2.0\charecterStats.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\bin\Debug\netcoreapp2.0\charecterStats.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\bin\Debug\netcoreapp2.0\charecterStats.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\bin\Debug\netcoreapp2.0\charecterStats.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\charecterStats\charecterStats\obj\Debug\netcoreapp2.0\charecterStats.pdb

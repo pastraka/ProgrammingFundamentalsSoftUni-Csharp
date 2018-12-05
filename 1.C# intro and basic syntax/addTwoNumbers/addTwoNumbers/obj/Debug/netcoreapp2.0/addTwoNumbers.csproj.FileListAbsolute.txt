@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp2.0\addTwoNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp2.0\addTwoNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp2.0\addTwoNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp2.0\addTwoNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp2.0\addTwoNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp2.0\addTwoNumbers.pdb

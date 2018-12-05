@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\bin\Debug\netcoreapp2.0\differentNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\bin\Debug\netcoreapp2.0\differentNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\bin\Debug\netcoreapp2.0\differentNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\bin\Debug\netcoreapp2.0\differentNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\bin\Debug\netcoreapp2.0\differentNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\differentNumbers\obj\Debug\netcoreapp2.0\differentNumbers.pdb

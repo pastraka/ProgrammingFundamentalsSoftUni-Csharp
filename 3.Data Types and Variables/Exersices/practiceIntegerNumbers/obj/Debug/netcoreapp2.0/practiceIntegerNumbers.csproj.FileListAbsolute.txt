@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\bin\Debug\netcoreapp2.0\practiceIntegerNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\bin\Debug\netcoreapp2.0\practiceIntegerNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\bin\Debug\netcoreapp2.0\practiceIntegerNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\bin\Debug\netcoreapp2.0\practiceIntegerNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\bin\Debug\netcoreapp2.0\practiceIntegerNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\practiceIntegerNumbers\obj\Debug\netcoreapp2.0\practiceIntegerNumbers.pdb

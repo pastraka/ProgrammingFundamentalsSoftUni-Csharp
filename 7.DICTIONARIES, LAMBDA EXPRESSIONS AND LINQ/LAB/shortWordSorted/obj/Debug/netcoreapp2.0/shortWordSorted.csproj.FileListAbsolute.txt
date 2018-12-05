@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\bin\Debug\netcoreapp2.0\shortWordSorted.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\bin\Debug\netcoreapp2.0\shortWordSorted.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\bin\Debug\netcoreapp2.0\shortWordSorted.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\bin\Debug\netcoreapp2.0\shortWordSorted.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\bin\Debug\netcoreapp2.0\shortWordSorted.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\shortWordSorted\obj\Debug\netcoreapp2.0\shortWordSorted.pdb

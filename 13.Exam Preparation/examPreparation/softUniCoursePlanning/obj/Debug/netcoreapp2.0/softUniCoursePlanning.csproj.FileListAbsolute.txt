@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\bin\Debug\netcoreapp2.0\softUniCoursePlanning.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\bin\Debug\netcoreapp2.0\softUniCoursePlanning.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\bin\Debug\netcoreapp2.0\softUniCoursePlanning.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\bin\Debug\netcoreapp2.0\softUniCoursePlanning.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\bin\Debug\netcoreapp2.0\softUniCoursePlanning.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\softUniCoursePlanning\obj\Debug\netcoreapp2.0\softUniCoursePlanning.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\bin\Debug\netcoreapp2.0\oddOccurrences.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\bin\Debug\netcoreapp2.0\oddOccurrences.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\bin\Debug\netcoreapp2.0\oddOccurrences.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\bin\Debug\netcoreapp2.0\oddOccurrences.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\bin\Debug\netcoreapp2.0\oddOccurrences.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\oddOccurrences\obj\Debug\netcoreapp2.0\oddOccurrences.pdb

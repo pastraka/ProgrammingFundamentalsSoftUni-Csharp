@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\bin\Debug\netcoreapp2.0\ClosestTwoPoints.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\bin\Debug\netcoreapp2.0\ClosestTwoPoints.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\bin\Debug\netcoreapp2.0\ClosestTwoPoints.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\bin\Debug\netcoreapp2.0\ClosestTwoPoints.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\bin\Debug\netcoreapp2.0\ClosestTwoPoints.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\ClosestTwoPoints\obj\Debug\netcoreapp2.0\ClosestTwoPoints.pdb

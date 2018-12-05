@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\bin\Debug\netcoreapp2.0\primeChecker.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\bin\Debug\netcoreapp2.0\primeChecker.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\bin\Debug\netcoreapp2.0\primeChecker.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\bin\Debug\netcoreapp2.0\primeChecker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\bin\Debug\netcoreapp2.0\primeChecker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\primeChecker\obj\Debug\netcoreapp2.0\primeChecker.pdb

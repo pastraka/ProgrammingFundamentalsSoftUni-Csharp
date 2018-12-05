@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\bin\Debug\netcoreapp2.1\snowBalls.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\bin\Debug\netcoreapp2.1\snowBalls.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\bin\Debug\netcoreapp2.1\snowBalls.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\bin\Debug\netcoreapp2.1\snowBalls.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\bin\Debug\netcoreapp2.1\snowBalls.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\snowBalls\obj\Debug\netcoreapp2.1\snowBalls.pdb

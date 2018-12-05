@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\bin\Debug\netcoreapp2.0\chooseADrink.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\bin\Debug\netcoreapp2.0\chooseADrink.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\bin\Debug\netcoreapp2.0\chooseADrink.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\bin\Debug\netcoreapp2.0\chooseADrink.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\bin\Debug\netcoreapp2.0\chooseADrink.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\chooseADrink\obj\Debug\netcoreapp2.0\chooseADrink.pdb

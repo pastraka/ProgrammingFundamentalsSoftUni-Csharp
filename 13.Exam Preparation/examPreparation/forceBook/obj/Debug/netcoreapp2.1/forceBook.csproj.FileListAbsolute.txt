@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\bin\Debug\netcoreapp2.1\forceBook.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\bin\Debug\netcoreapp2.1\forceBook.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\bin\Debug\netcoreapp2.1\forceBook.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\bin\Debug\netcoreapp2.1\forceBook.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\bin\Debug\netcoreapp2.1\forceBook.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\forceBook\obj\Debug\netcoreapp2.1\forceBook.pdb

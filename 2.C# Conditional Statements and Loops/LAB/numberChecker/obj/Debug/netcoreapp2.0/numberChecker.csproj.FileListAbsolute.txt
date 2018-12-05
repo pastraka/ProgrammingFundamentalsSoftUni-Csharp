@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\bin\Debug\netcoreapp2.0\numberChecker.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\bin\Debug\netcoreapp2.0\numberChecker.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\bin\Debug\netcoreapp2.0\numberChecker.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\bin\Debug\netcoreapp2.0\numberChecker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\bin\Debug\netcoreapp2.0\numberChecker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\numberChecker\obj\Debug\netcoreapp2.0\numberChecker.pdb

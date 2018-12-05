@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\bin\Debug\netcoreapp2.1\sinoTheWalker.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\bin\Debug\netcoreapp2.1\sinoTheWalker.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\bin\Debug\netcoreapp2.1\sinoTheWalker.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\bin\Debug\netcoreapp2.1\sinoTheWalker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\bin\Debug\netcoreapp2.1\sinoTheWalker.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\sinoTheWalker\obj\Debug\netcoreapp2.1\sinoTheWalker.pdb

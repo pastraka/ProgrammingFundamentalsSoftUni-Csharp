@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\bin\Debug\netcoreapp2.0\sumMinMaxAverage.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\bin\Debug\netcoreapp2.0\sumMinMaxAverage.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\bin\Debug\netcoreapp2.0\sumMinMaxAverage.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\bin\Debug\netcoreapp2.0\sumMinMaxAverage.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\bin\Debug\netcoreapp2.0\sumMinMaxAverage.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\sumMinMaxAverage\obj\Debug\netcoreapp2.0\sumMinMaxAverage.pdb

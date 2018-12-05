@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\bin\Debug\netcoreapp2.0\karateStrings.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\bin\Debug\netcoreapp2.0\karateStrings.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\bin\Debug\netcoreapp2.0\karateStrings.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\bin\Debug\netcoreapp2.0\karateStrings.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\bin\Debug\netcoreapp2.0\karateStrings.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\karateStrings\obj\Debug\netcoreapp2.0\karateStrings.pdb

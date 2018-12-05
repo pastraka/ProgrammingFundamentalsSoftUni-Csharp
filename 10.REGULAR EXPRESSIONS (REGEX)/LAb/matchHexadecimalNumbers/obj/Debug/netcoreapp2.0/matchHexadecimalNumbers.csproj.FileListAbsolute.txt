@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\bin\Debug\netcoreapp2.0\matchHexadecimalNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\bin\Debug\netcoreapp2.0\matchHexadecimalNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\bin\Debug\netcoreapp2.0\matchHexadecimalNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\bin\Debug\netcoreapp2.0\matchHexadecimalNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\bin\Debug\netcoreapp2.0\matchHexadecimalNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\matchHexadecimalNumbers\obj\Debug\netcoreapp2.0\matchHexadecimalNumbers.pdb

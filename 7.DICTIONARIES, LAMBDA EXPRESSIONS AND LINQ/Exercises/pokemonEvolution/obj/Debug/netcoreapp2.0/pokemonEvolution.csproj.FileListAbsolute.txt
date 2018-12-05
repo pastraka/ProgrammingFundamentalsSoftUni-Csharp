@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\bin\Debug\netcoreapp2.0\pokemonEvolution.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\pokemonEvolution\obj\Debug\netcoreapp2.0\pokemonEvolution.pdb

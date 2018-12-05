@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\refactorVolumeOfPyramid.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\refactorVolumeOfPyramid.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\refactorVolumeOfPyramid.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\refactorVolumeOfPyramid.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\refactorVolumeOfPyramid.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\refactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\refactorVolumeOfPyramid.pdb

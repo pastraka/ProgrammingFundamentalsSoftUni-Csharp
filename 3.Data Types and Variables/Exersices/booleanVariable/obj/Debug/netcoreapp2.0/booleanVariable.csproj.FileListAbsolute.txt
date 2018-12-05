@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\bin\Debug\netcoreapp2.0\booleanVariable.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\bin\Debug\netcoreapp2.0\booleanVariable.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\bin\Debug\netcoreapp2.0\booleanVariable.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\bin\Debug\netcoreapp2.0\booleanVariable.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\bin\Debug\netcoreapp2.0\booleanVariable.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\booleanVariable\obj\Debug\netcoreapp2.0\booleanVariable.pdb

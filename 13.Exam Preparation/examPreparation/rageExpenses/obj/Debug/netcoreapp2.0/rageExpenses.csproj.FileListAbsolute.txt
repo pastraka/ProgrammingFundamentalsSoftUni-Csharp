@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\bin\Debug\netcoreapp2.0\rageExpenses.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\bin\Debug\netcoreapp2.0\rageExpenses.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\bin\Debug\netcoreapp2.0\rageExpenses.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\bin\Debug\netcoreapp2.0\rageExpenses.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\bin\Debug\netcoreapp2.0\rageExpenses.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\rageExpenses\obj\Debug\netcoreapp2.0\rageExpenses.pdb

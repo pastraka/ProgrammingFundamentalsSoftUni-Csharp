@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\bin\Debug\netcoreapp2.0\greetings.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\bin\Debug\netcoreapp2.0\greetings.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\bin\Debug\netcoreapp2.0\greetings.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\bin\Debug\netcoreapp2.0\greetings.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\bin\Debug\netcoreapp2.0\greetings.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\1.C# intro and basic syntax\greetings\greetings\obj\Debug\netcoreapp2.0\greetings.pdb

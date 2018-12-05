@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\bin\Debug\netcoreapp2.0\blankReceipt.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\bin\Debug\netcoreapp2.0\blankReceipt.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\bin\Debug\netcoreapp2.0\blankReceipt.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\bin\Debug\netcoreapp2.0\blankReceipt.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\bin\Debug\netcoreapp2.0\blankReceipt.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\blankReceipt\obj\Debug\netcoreapp2.0\blankReceipt.pdb

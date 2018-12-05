@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\bin\Debug\netcoreapp2.0\replaceATag.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\bin\Debug\netcoreapp2.0\replaceATag.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\bin\Debug\netcoreapp2.0\replaceATag.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\bin\Debug\netcoreapp2.0\replaceATag.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\bin\Debug\netcoreapp2.0\replaceATag.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\LAb\replaceATag\obj\Debug\netcoreapp2.0\replaceATag.pdb

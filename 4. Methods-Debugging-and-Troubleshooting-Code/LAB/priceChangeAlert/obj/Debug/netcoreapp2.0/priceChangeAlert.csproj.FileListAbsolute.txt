@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\bin\Debug\netcoreapp2.0\priceChangeAlert.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\bin\Debug\netcoreapp2.0\priceChangeAlert.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\bin\Debug\netcoreapp2.0\priceChangeAlert.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\bin\Debug\netcoreapp2.0\priceChangeAlert.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\bin\Debug\netcoreapp2.0\priceChangeAlert.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\priceChangeAlert\obj\Debug\netcoreapp2.0\priceChangeAlert.pdb

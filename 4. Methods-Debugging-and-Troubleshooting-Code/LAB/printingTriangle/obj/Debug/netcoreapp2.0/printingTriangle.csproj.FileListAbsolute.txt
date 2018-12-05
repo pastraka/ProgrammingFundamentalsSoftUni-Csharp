@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\bin\Debug\netcoreapp2.0\printingTriangle.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\bin\Debug\netcoreapp2.0\printingTriangle.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\bin\Debug\netcoreapp2.0\printingTriangle.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\bin\Debug\netcoreapp2.0\printingTriangle.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\bin\Debug\netcoreapp2.0\printingTriangle.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\printingTriangle\obj\Debug\netcoreapp2.0\printingTriangle.pdb

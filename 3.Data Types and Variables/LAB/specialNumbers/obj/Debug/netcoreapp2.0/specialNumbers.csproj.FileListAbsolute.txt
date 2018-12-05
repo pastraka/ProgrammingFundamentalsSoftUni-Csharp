@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\bin\Debug\netcoreapp2.0\specialNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\bin\Debug\netcoreapp2.0\specialNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\bin\Debug\netcoreapp2.0\specialNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\bin\Debug\netcoreapp2.0\specialNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\bin\Debug\netcoreapp2.0\specialNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\obj\Debug\netcoreapp2.0\specialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\obj\Debug\netcoreapp2.0\specialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\obj\Debug\netcoreapp2.0\specialNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\obj\Debug\netcoreapp2.0\specialNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\LAB\LAB\specialNumbers\obj\Debug\netcoreapp2.0\specialNumbers.pdb

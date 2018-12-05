@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.pdb

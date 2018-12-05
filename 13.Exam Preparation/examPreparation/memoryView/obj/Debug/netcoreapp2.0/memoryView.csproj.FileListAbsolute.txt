@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\bin\Debug\netcoreapp2.0\memoryView.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\bin\Debug\netcoreapp2.0\memoryView.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\bin\Debug\netcoreapp2.0\memoryView.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\bin\Debug\netcoreapp2.0\memoryView.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\bin\Debug\netcoreapp2.0\memoryView.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\memoryView\obj\Debug\netcoreapp2.0\memoryView.pdb

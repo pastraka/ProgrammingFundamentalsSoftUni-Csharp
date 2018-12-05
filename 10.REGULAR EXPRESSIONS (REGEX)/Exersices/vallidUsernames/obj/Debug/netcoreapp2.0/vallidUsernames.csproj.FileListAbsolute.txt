@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\bin\Debug\netcoreapp2.0\vallidUsernames.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\bin\Debug\netcoreapp2.0\vallidUsernames.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\bin\Debug\netcoreapp2.0\vallidUsernames.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\bin\Debug\netcoreapp2.0\vallidUsernames.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\bin\Debug\netcoreapp2.0\vallidUsernames.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\vallidUsernames\obj\Debug\netcoreapp2.0\vallidUsernames.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\bin\Debug\netcoreapp2.0\extractSentencesBuKeyword.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\bin\Debug\netcoreapp2.0\extractSentencesBuKeyword.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\bin\Debug\netcoreapp2.0\extractSentencesBuKeyword.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\bin\Debug\netcoreapp2.0\extractSentencesBuKeyword.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\bin\Debug\netcoreapp2.0\extractSentencesBuKeyword.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\extractSentencesBuKeyword\obj\Debug\netcoreapp2.0\extractSentencesBuKeyword.pdb

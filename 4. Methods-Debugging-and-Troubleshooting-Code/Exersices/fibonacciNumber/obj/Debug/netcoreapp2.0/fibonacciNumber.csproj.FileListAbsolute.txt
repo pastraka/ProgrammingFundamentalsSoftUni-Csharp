@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\bin\Debug\netcoreapp2.0\fibonacciNumber.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\bin\Debug\netcoreapp2.0\fibonacciNumber.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\bin\Debug\netcoreapp2.0\fibonacciNumber.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\bin\Debug\netcoreapp2.0\fibonacciNumber.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\bin\Debug\netcoreapp2.0\fibonacciNumber.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\fibonacciNumber\obj\Debug\netcoreapp2.0\fibonacciNumber.pdb

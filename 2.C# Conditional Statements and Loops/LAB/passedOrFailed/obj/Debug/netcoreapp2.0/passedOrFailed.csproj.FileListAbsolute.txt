@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\bin\Debug\netcoreapp2.0\passedOrFailed.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\bin\Debug\netcoreapp2.0\passedOrFailed.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\bin\Debug\netcoreapp2.0\passedOrFailed.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\bin\Debug\netcoreapp2.0\passedOrFailed.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\bin\Debug\netcoreapp2.0\passedOrFailed.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\projects\passedOrFailed\obj\Debug\netcoreapp2.0\passedOrFailed.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\bin\Debug\netcoreapp2.0\phoneBook.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\bin\Debug\netcoreapp2.0\phoneBook.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\bin\Debug\netcoreapp2.0\phoneBook.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\bin\Debug\netcoreapp2.0\phoneBook.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\bin\Debug\netcoreapp2.0\phoneBook.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\phoneBook\obj\Debug\netcoreapp2.0\phoneBook.pdb

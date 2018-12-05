@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\bin\Debug\netcoreapp2.0\convertFromBase10toBaseN.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\bin\Debug\netcoreapp2.0\convertFromBase10toBaseN.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\bin\Debug\netcoreapp2.0\convertFromBase10toBaseN.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\bin\Debug\netcoreapp2.0\convertFromBase10toBaseN.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\bin\Debug\netcoreapp2.0\convertFromBase10toBaseN.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\convertFromBase10toBaseN\obj\Debug\netcoreapp2.0\convertFromBase10toBaseN.pdb

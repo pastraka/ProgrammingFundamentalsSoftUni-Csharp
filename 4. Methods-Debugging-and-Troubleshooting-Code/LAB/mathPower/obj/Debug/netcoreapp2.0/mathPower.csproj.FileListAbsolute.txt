@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\bin\Debug\netcoreapp2.0\mathPower.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\bin\Debug\netcoreapp2.0\mathPower.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\bin\Debug\netcoreapp2.0\mathPower.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\bin\Debug\netcoreapp2.0\mathPower.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\bin\Debug\netcoreapp2.0\mathPower.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\mathPower\obj\Debug\netcoreapp2.0\mathPower.pdb

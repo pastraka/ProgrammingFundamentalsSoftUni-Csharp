@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\bin\Debug\netcoreapp2.0\vowelOfDigit.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\bin\Debug\netcoreapp2.0\vowelOfDigit.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\bin\Debug\netcoreapp2.0\vowelOfDigit.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\bin\Debug\netcoreapp2.0\vowelOfDigit.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\bin\Debug\netcoreapp2.0\vowelOfDigit.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\3.Data Types and Variables\Exersices\vowelOfDigit\obj\Debug\netcoreapp2.0\vowelOfDigit.pdb

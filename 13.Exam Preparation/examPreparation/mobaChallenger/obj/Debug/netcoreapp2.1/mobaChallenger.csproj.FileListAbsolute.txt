@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\bin\Debug\netcoreapp2.1\mobaChallenger.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\bin\Debug\netcoreapp2.1\mobaChallenger.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\bin\Debug\netcoreapp2.1\mobaChallenger.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\bin\Debug\netcoreapp2.1\mobaChallenger.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\bin\Debug\netcoreapp2.1\mobaChallenger.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\mobaChallenger\obj\Debug\netcoreapp2.1\mobaChallenger.pdb

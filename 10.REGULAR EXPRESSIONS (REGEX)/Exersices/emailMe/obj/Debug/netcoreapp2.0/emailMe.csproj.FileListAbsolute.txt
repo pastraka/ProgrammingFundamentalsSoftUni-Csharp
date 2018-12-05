@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\bin\Debug\netcoreapp2.0\emailMe.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\bin\Debug\netcoreapp2.0\emailMe.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\bin\Debug\netcoreapp2.0\emailMe.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\bin\Debug\netcoreapp2.0\emailMe.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\bin\Debug\netcoreapp2.0\emailMe.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\emailMe\obj\Debug\netcoreapp2.0\emailMe.pdb

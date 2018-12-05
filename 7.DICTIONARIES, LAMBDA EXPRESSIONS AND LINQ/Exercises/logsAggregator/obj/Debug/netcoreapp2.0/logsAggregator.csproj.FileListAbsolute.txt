@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\bin\Debug\netcoreapp2.0\logsAggregator.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\bin\Debug\netcoreapp2.0\logsAggregator.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\bin\Debug\netcoreapp2.0\logsAggregator.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\bin\Debug\netcoreapp2.0\logsAggregator.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\bin\Debug\netcoreapp2.0\logsAggregator.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\logsAggregator\obj\Debug\netcoreapp2.0\logsAggregator.pdb

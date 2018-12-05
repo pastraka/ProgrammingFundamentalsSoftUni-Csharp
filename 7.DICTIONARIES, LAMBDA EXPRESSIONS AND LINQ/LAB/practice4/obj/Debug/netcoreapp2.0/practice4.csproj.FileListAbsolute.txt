@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\bin\Debug\netcoreapp2.0\practice4.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\bin\Debug\netcoreapp2.0\practice4.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\bin\Debug\netcoreapp2.0\practice4.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\bin\Debug\netcoreapp2.0\practice4.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\bin\Debug\netcoreapp2.0\practice4.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\practice4\obj\Debug\netcoreapp2.0\practice4.pdb

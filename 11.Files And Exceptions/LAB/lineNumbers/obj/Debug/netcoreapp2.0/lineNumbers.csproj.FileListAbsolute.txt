@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\bin\Debug\netcoreapp2.0\lineNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\bin\Debug\netcoreapp2.0\lineNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\bin\Debug\netcoreapp2.0\lineNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\bin\Debug\netcoreapp2.0\lineNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\bin\Debug\netcoreapp2.0\lineNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\11.Files And Exceptions\LAB\lineNumbers\obj\Debug\netcoreapp2.0\lineNumbers.pdb

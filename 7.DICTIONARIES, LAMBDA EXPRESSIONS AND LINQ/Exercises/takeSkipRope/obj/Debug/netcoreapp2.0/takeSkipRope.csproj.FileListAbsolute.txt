@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\bin\Debug\netcoreapp2.0\takeSkipRope.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\bin\Debug\netcoreapp2.0\takeSkipRope.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\bin\Debug\netcoreapp2.0\takeSkipRope.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\bin\Debug\netcoreapp2.0\takeSkipRope.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\bin\Debug\netcoreapp2.0\takeSkipRope.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\takeSkipRope\obj\Debug\netcoreapp2.0\takeSkipRope.pdb

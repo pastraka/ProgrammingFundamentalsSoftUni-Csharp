@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\bin\Debug\netcoreapp2.0\multiplyEvensByOdds.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\bin\Debug\netcoreapp2.0\multiplyEvensByOdds.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\bin\Debug\netcoreapp2.0\multiplyEvensByOdds.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\bin\Debug\netcoreapp2.0\multiplyEvensByOdds.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\bin\Debug\netcoreapp2.0\multiplyEvensByOdds.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\LAB\multiplyEvensByOdds\obj\Debug\netcoreapp2.0\multiplyEvensByOdds.pdb

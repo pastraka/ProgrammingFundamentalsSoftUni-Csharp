@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\bin\Debug\netcoreapp2.0\rectanglePosition.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\bin\Debug\netcoreapp2.0\rectanglePosition.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\bin\Debug\netcoreapp2.0\rectanglePosition.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\bin\Debug\netcoreapp2.0\rectanglePosition.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\bin\Debug\netcoreapp2.0\rectanglePosition.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\8.Objects and Classes\LAB\rectanglePosition\obj\Debug\netcoreapp2.0\rectanglePosition.pdb

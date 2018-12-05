@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\bin\Debug\netcoreapp2.0\fixEmails.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\bin\Debug\netcoreapp2.0\fixEmails.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\bin\Debug\netcoreapp2.0\fixEmails.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\bin\Debug\netcoreapp2.0\fixEmails.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\bin\Debug\netcoreapp2.0\fixEmails.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\fixEmails\obj\Debug\netcoreapp2.0\fixEmails.pdb

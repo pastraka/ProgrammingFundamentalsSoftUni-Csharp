@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\bin\Debug\netcoreapp2.0\triangleOfNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\bin\Debug\netcoreapp2.0\triangleOfNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\bin\Debug\netcoreapp2.0\triangleOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\bin\Debug\netcoreapp2.0\triangleOfNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\bin\Debug\netcoreapp2.0\triangleOfNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\triangleOfNumbers\obj\Debug\netcoreapp2.0\triangleOfNumbers.pdb

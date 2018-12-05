@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\bin\Debug\netcoreapp2.1\padawanEquipment.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\bin\Debug\netcoreapp2.1\padawanEquipment.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\bin\Debug\netcoreapp2.1\padawanEquipment.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\bin\Debug\netcoreapp2.1\padawanEquipment.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\bin\Debug\netcoreapp2.1\padawanEquipment.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\13.Exam Preparation\examPreparation\padawanEquipment\obj\Debug\netcoreapp2.1\padawanEquipment.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\bin\Debug\netcoreapp2.0\multiplyBigInteger.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\bin\Debug\netcoreapp2.0\multiplyBigInteger.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\bin\Debug\netcoreapp2.0\multiplyBigInteger.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\bin\Debug\netcoreapp2.0\multiplyBigInteger.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\bin\Debug\netcoreapp2.0\multiplyBigInteger.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\multiplyBigInteger\obj\Debug\netcoreapp2.0\multiplyBigInteger.pdb

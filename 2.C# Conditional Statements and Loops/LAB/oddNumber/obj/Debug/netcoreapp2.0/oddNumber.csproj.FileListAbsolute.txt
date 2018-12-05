@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\bin\Debug\netcoreapp2.0\oddNumber.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\bin\Debug\netcoreapp2.0\oddNumber.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\bin\Debug\netcoreapp2.0\oddNumber.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\bin\Debug\netcoreapp2.0\oddNumber.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\bin\Debug\netcoreapp2.0\oddNumber.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\oddNumber\obj\Debug\netcoreapp2.0\oddNumber.pdb

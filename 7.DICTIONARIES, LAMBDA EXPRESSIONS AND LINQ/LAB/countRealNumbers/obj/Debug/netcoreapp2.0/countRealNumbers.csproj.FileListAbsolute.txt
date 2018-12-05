@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\bin\Debug\netcoreapp2.0\countRealNumbers.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\bin\Debug\netcoreapp2.0\countRealNumbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\bin\Debug\netcoreapp2.0\countRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\bin\Debug\netcoreapp2.0\countRealNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\bin\Debug\netcoreapp2.0\countRealNumbers.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\LAB\countRealNumbers\obj\Debug\netcoreapp2.0\countRealNumbers.pdb

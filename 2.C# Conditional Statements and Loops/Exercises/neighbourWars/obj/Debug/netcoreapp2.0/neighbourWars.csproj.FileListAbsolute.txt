@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\bin\Debug\netcoreapp2.0\neighbourWars.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\bin\Debug\netcoreapp2.0\neighbourWars.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\bin\Debug\netcoreapp2.0\neighbourWars.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\bin\Debug\netcoreapp2.0\neighbourWars.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\bin\Debug\netcoreapp2.0\neighbourWars.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\2.C# Conditional Statements and Loops\Exercises\neighbourWars\obj\Debug\netcoreapp2.0\neighbourWars.pdb

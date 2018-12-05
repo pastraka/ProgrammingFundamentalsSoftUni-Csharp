@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\bin\Debug\netcoreapp2.0\magicExchangeableWords.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\bin\Debug\netcoreapp2.0\magicExchangeableWords.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\bin\Debug\netcoreapp2.0\magicExchangeableWords.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\bin\Debug\netcoreapp2.0\magicExchangeableWords.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\bin\Debug\netcoreapp2.0\magicExchangeableWords.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\Exercises\magicExchangeableWords\obj\Debug\netcoreapp2.0\magicExchangeableWords.pdb

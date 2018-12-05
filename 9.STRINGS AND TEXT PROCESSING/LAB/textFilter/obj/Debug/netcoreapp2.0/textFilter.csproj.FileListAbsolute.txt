@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\bin\Debug\netcoreapp2.0\textFilter.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\bin\Debug\netcoreapp2.0\textFilter.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\bin\Debug\netcoreapp2.0\textFilter.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\bin\Debug\netcoreapp2.0\textFilter.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\bin\Debug\netcoreapp2.0\textFilter.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\9.STRINGS AND TEXT PROCESSING\LAB\textFilter\obj\Debug\netcoreapp2.0\textFilter.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\englishNameOfTheLastDigit.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\englishNameOfTheLastDigit.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\englishNameOfTheLastDigit.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\englishNameOfTheLastDigit.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\englishNameOfTheLastDigit.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\4. Methods-Debugging-and-Troubleshooting-Code\Exersices\englishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\englishNameOfTheLastDigit.pdb

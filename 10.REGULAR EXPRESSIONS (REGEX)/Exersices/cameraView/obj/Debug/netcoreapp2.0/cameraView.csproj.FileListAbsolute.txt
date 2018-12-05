@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\bin\Debug\netcoreapp2.0\cameraView.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\bin\Debug\netcoreapp2.0\cameraView.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\bin\Debug\netcoreapp2.0\cameraView.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\bin\Debug\netcoreapp2.0\cameraView.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\bin\Debug\netcoreapp2.0\cameraView.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\10.REGULAR EXPRESSIONS (REGEX)\Exersices\cameraView\obj\Debug\netcoreapp2.0\cameraView.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\bin\Debug\netcoreapp2.0\superMarketDataBase.deps.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\bin\Debug\netcoreapp2.0\superMarketDataBase.runtimeconfig.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\bin\Debug\netcoreapp2.0\superMarketDataBase.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\bin\Debug\netcoreapp2.0\superMarketDataBase.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\bin\Debug\netcoreapp2.0\superMarketDataBase.pdb
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.dll
+D:\SoftUni\Tech Module\Programming Fundamentals\My Programs\7.DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Exercises\superMarketDataBase\obj\Debug\netcoreapp2.0\superMarketDataBase.pdb
